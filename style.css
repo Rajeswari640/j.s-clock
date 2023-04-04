@@ -1,0 +1,14 @@
+body{
+    background-color: lightgreen;
+}
+.clock{
+    position: absolute;
+    top: 50%;
+    left:40%;
+    transform:translateX(-50%);
+    transform: translateY(-50%);
+    color: red;
+    font-size: 70px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 5px;
+}
